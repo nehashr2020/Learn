@@ -58,7 +58,7 @@ elif options.o == 'mul':
     print("RESULT: ", mult(a,b))
     
 def test_sum_int():
-	assert sum(3,2) == 5
+	assert sum(3,3) == 6
 	
 def test_sum_float():
 	assert sum(2.5,3.5) == 6
