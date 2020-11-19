@@ -61,7 +61,7 @@ def test_sum_int():
 	assert sum(3,3) == 6
 	
 def test_sum_float():
-	assert sum(2.5,3.5) == 6
+	assert sum(3.5,4.5) == 8
 	
 def test_check4no():
 
